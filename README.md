@@ -7,11 +7,11 @@ On the second screen, all the details of the clicked book are listed.
 In addition, with the chucker library added to the application, the requested APIs and the returned response information can be examined.
 
 # Used technologies
-- ViewBinding
-- Navigation
-- Retrofit 
-- Chucker
-- SharedPreferences
+* ViewBinding 
+* Navigation
+* Retrofit 
+* Chucker
+* SharedPreferences
 
 # ScreenShots
 ## Home Screen
