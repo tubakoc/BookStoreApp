@@ -7,26 +7,26 @@ On the second screen, all the details of the clicked book are listed.
 In addition, with the chucker library added to the application, the requested APIs and the returned response information can be examined.
 
 #Used technologies
-– ViewBinding
-– Navigation
-– Retrofit 
-– Chucker
-– SharedPreferences
+⋅⋅*ViewBinding
+⋅⋅*Navigation
+⋅⋅*Retrofit 
+⋅⋅*Chucker
+⋅⋅*SharedPreferences
 
 # ScreenShots
-Home Screen
+## Home Screen
 
-<img src="https://github.com/tubakoc/BookStoreApp/blob/master/all_books_two.jpg" >
+<img src="https://github.com/tubakoc/BookStoreApp/blob/master/all_books_two.jpg" width="600" height="900" >
 
-<img src="https://github.com/tubakoc/BookStoreApp/blob/master/all_books.jpg" >
+<img src="https://github.com/tubakoc/BookStoreApp/blob/master/all_books.jpg" width="600" height="900" >
 
 
-###Detail Screen
+## Detail Screen
 
 <img src="https://github.com/tubakoc/BookStoreApp/blob/master/Detay%20page.jpg" width="600" height="900">
 
 
-###Chucker 
+## Chucker 
 
 <img src="https://github.com/tubakoc/BookStoreApp/blob/master/chucker.jpg" width="600" height="900" >
 
