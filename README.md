@@ -28,7 +28,7 @@ Home Screen
 
 ###Chucker 
 
-<img src="https://github.com/tubakoc/BookStoreApp/blob/master/chucker.jpg" width="800" height="900" >
+<img src="https://github.com/tubakoc/BookStoreApp/blob/master/chucker.jpg" width="600" height="900" >
 
-<img src="https://github.com/tubakoc/BookStoreApp/blob/master/get_bookdetail_api.jpg" width="800" height="900">
+<img src="https://github.com/tubakoc/BookStoreApp/blob/master/get_bookdetail_api.jpg" width="600" height="900">
 
