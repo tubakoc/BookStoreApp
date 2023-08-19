@@ -23,7 +23,7 @@ Home Screen
 
 ###Detail Screen
 
-<img src="https://github.com/tubakoc/BookStoreApp/blob/master/Detay%20page.jpg" width="800" height="900">
+<img src="https://github.com/tubakoc/BookStoreApp/blob/master/Detay%20page.jpg" width="600" height="900">
 
 
 ###Chucker 
