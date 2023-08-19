@@ -16,7 +16,7 @@ In addition, with the chucker library added to the application, the requested AP
 # ScreenShots
 Home Screen
 
-<img src="https://github.com/tubakoc/BookStoreApp/blob/master/all_books_two.jpg" width="500" height="800">
+<img src="https://github.com/tubakoc/BookStoreApp/blob/master/all_books_two.jpg" width="800" height="900">
 
 <img src="https://github.com/tubakoc/BookStoreApp/blob/master/all_books.jpg" >
 
